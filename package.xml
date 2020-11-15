@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Send Email</fullName>
+    <fullName>Send Email 2020</fullName>
     <apiAccessLevel>Unrestricted</apiAccessLevel>
-    <namespacePrefix>SendEmail</namespacePrefix>
+    <namespacePrefix>SendEmail2020</namespacePrefix>
     <types>
         <members>SendEmail</members>
         <members>SendEmailTest</members>

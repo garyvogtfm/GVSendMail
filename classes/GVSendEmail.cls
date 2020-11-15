@@ -1,4 +1,4 @@
-global without sharing  class SendEmail {
+global without sharing  class GVSendEmail {
     
     // Defines the input parameters of this Flow Element in the Canvas Designer
     global class InvokeSendEmail {

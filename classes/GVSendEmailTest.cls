@@ -1,6 +1,6 @@
 @IsTest
 // (THIS SHOULD NOT BE GLOBAL...)
-global class SendEmailTest {
+global class GVSendEmailTest {
     
     @TestSetup
     static void makeData(){
